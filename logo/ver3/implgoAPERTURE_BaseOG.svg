@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 532 532"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="BaseOG.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.4605263"
+     inkscape:cx="265.31532"
+     inkscape:cy="265.31532"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g9"
+     style="fill:#ffffff;fill-opacity:1">
+    <g
+       id="g8"
+       style="fill:#ffffff;fill-opacity:1">
+      <use
+         transform="rotate(135,266,266.00003)"
+         xlink:href="#c"
+         id="use7"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         id="path1"
+         d="M 371.11751,509.53959 C 430.44126,484.56116 480.3981,437.72662 507.45805,377.3621 l -258.11034,47.87531"
+         fill="#0099ff"
+         style="stroke-width:1.04077;fill:#ffffff;fill-opacity:1" />
+      <use
+         transform="rotate(-135,265.99998,266)"
+         xlink:href="#c"
+         id="use4"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+    <g
+       id="g7"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="c"
+         d="M 160.88248,22.460408 C 101.55874,47.438831 51.601896,94.273373 24.541941,154.63789 L 282.65228,106.76258"
+         fill="#0099ff"
+         style="stroke-width:1.04077;fill:#ffffff;fill-opacity:1" />
+      <use
+         transform="rotate(45.000003,266,266.00003)"
+         xlink:href="#c"
+         id="use1"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <use
+         transform="rotate(-45.000003,265.99993,266)"
+         xlink:href="#c"
+         id="use6"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
